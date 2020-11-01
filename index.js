@@ -12,6 +12,7 @@ let another_obj = {
     name: 'dm',
     f_name: 'dsa'
 }
+let arr = [1,2,3,4,5]
 
 
 let asdsadsad = 'asdsadsad'
