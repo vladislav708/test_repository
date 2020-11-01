@@ -1,5 +1,5 @@
 let vllad = 6;
-let b = 'vladik xuylo'
+let vlad = 'vladik xuylo'
 
-let z = 75;
+let slavik = 75;
 let slaviks = 22
