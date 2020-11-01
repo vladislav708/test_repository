@@ -4,6 +4,4 @@ let x = 21;
 
 
 
-
-let vlad = 75;
-let slavik = 22
+let absoft = 'hello world'
