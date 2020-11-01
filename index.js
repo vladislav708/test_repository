@@ -20,3 +20,5 @@ let obj = {
     name: 'vlad',
     l_name: 'bond'
 }
+
+let debil = ['slavik']
