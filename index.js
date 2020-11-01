@@ -4,4 +4,8 @@ let x = 21;
 
 
 
-let absoft = 'hello world'
+let asdsadsad = 'asdsadsad'
+let obj = {
+    name: 'vlad',
+    l_name: 'bond'
+}
