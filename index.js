@@ -1,5 +1,6 @@
 let vllad = 6;
 let vlad = 'vladik xuylo'
 
-
-let absoft = 'hello world'
+let slavik = 75;
+let slaviks = 22
+let admin = 'ya admin'
