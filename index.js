@@ -21,4 +21,4 @@ let obj = {
     l_name: 'bond'
 }
 
-let debil = ['slavik']
+let debil = ['vladik']
