@@ -1,9 +1,14 @@
-let a = 6;
-let b = 'vladik xuylo'
-let x = 21;
+let vllad = 6;
+let vlad = 'vladik xuylo'
 
-
-
-
-let vlad = 75;
-let slavik = 22
+let slavik = 75;
+let slaviks = 22
+let admin = 'ya admin'
+let obj = {
+    a: 5,
+    b: 'c'
+}
+let another_obj = {
+    name: 'dm',
+    f_name: 'dsa'
+}
