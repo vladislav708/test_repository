@@ -1,3 +1,5 @@
-let a = 5;
+let a = 6;
+let b = 'vladik xuylo'
 
-console.log("Vlad Xuy")
+let vlad = 75;
+let slavik = 22
