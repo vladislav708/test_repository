@@ -8,3 +8,7 @@ let obj = {
     a: 5,
     b: 'c'
 }
+let another_obj = {
+    name: 'dm',
+    f_name: 'dsa'
+}
