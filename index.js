@@ -12,3 +12,10 @@ let another_obj = {
     name: 'dm',
     f_name: 'dsa'
 }
+
+
+let asdsadsad = 'asdsadsad'
+let obj = {
+    name: 'vlad',
+    l_name: 'bond'
+}
